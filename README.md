@@ -15,6 +15,12 @@ A simple yet dynamic loading animation built using **HTML** and **CSS**. This pr
 - HTML5
 - CSS3 (Keyframes, Cubic-bezier)
 - Accessibility (ARIA)
+
+## 🎥 **Demo**
+
+You can view the loading animation in action by watching the video below:
+
+[**Watch the Animation Demo**](https://github.com/user-attachments/assets/fafc7e8d-ed32-4956-8e83-a10d5454bb30)
   
 ## 🚀 **How It Works**
 
